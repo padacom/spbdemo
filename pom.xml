@@ -31,7 +31,7 @@
         <!--<mysql.version>5.1.38</mysql.version>-->
         <dynamic-datasource-spring-boot-starter.version>2.3.6</dynamic-datasource-spring-boot-starter.version>
         <mybatisplus-spring-boot-starter.version>1.0.5</mybatisplus-spring-boot-starter.version>
-        <fastjson.version>1.2.49</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <hutool.version>4.1.19</hutool.version>
         <druid.version>1.1.10</druid.version>
     </properties>
